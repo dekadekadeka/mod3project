@@ -3,6 +3,8 @@
 Mod 3 Project
 by Deka Ambia and Will Jones
 
+Based on Space Invaders and inspired by the Flatiron School experience
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
